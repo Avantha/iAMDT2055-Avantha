@@ -1,0 +1,10 @@
+:root {
+    
+    --text-color-dark-varient-1: #545454; /* dark */
+    --text-color-dark-varient-2: #2c2c2c; /* darker */
+
+    --text-color-light-varient-1: #cccbcb; /* light */
+    --text-color-light-varient-2: #dfdfdf; /* lighter */
+
+    --dark-box-shadow-varient-1:  0 0 52px 0 rgba(229, 229, 229, 0.14);
+  }
